@@ -1,1 +1,0 @@
-packages/vuetify/LICENSE.md
